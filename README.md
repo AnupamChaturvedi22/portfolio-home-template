@@ -2,9 +2,13 @@
 
 A modern, fully responsive portfolio homepage template built using **HTML**, **CSS**, and **Spline**. This project features an interactive 3D experience, clean UI, and responsive design, making it a great starting point for a personal portfolio website.
 
+---
+
 ## 🚀 Live Demo
 
 > [https://anupamchaturvedi22.github.io/portfolio-home-template/](https://portfolio-home-template.vercel.app/)
+
+---
 
 ## ✨ Features
 
@@ -16,6 +20,7 @@ A modern, fully responsive portfolio homepage template built using **HTML**, **C
 - 📐 Clean and Organized Code
 - 🎯 Beginner-Friendly Project Structure
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,6 +29,8 @@ A modern, fully responsive portfolio homepage template built using **HTML**, **C
 - Spline
 - Responsive Web Design
 
+---
+
 ## 📂 Project Structure
 
 portfolio-home-template/
@@ -31,15 +38,16 @@ portfolio-home-template/
 │── style.css
 │── gradient.png
 
-## 📸 Preview
+---
 
-> Add a screenshot of your homepage here.
+## 📸 Preview
 
 Example:
 
 
 ![Portfolio Preview](preview.png)
 
+---
 
 ## 🚀 Getting Started
 
@@ -51,6 +59,7 @@ git clone https://github.com/AnupamChaturvedi22/portfolio-home-template.git
 
 3. Open `index.html` in your browser.
 
+---
 
 ## 📌 Future Improvements
 
@@ -61,6 +70,7 @@ git clone https://github.com/AnupamChaturvedi22/portfolio-home-template.git
 - Dark/Light Theme
 - Smooth Animations
 
+---
 
 ## 🤝 Contributing
 
